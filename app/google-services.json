@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373098945402",
+    "project_id": "pondasy-c5c3b",
+    "storage_bucket": "pondasy-c5c3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373098945402:android:cd8b41d24b20baa704d4c3",
+        "android_client_info": {
+          "package_name": "com.example.pondasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373098945402-259dbnpckd11q8nufa5qo4uuuih55mfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEgr_pybBRlOvj6s5USNi8rslnFsEH5HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373098945402-259dbnpckd11q8nufa5qo4uuuih55mfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
